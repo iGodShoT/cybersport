@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxfOkbjUXDEmuvVgb91AYKgAAAAACAAAAAAAQZgAAAAEAACAAAADXYKhAe7HGC0uQfqlL0Y4qPiv2ZzbT0R68pPGc/+GS/wAAAAAOgAAAAAIAACAAAAB6iZf6KgLrBzkHXaxX/5lgdPS1rK6l28kRBKyayqZzKiAAAABWflQFsk59HcDr7h/W43OvjF77Uw303HZ9WH+SyZiQyUAAAAASNGoJ+lVH8UN6uyIIbWHyq90hw338kBv9NCHSYKZvFmYhOaCY/YNWWSJu2eSVIoIAyEFXUJnEWV2bAqroZLyy</EncryptedPassword>
+    <History>False|2021-12-06T10:29:57.7528788Z;False|2021-12-06T13:26:49.1152836+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL5091.site4now.net%3bInitial Catalog=db_a7d4d8_cybersport%3bUser Id=db_a7d4d8_cybersport_admin%3bPassword=St8nlkpjy</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
